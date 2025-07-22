@@ -1,8 +1,13 @@
 # Stylized Rock Generator Blender Addon
 
-<p align="center">
-  <video src="preview.mp4" controls width="500"></video>
-</p>
+
+
+
+
+https://github.com/user-attachments/assets/fbc3f0d5-910f-4fda-b749-105772771527
+
+
+
 
 ## Overview
 The **Stylized Rock Generator** is a Blender addon that allows you to quickly apply a series of procedural modifiers to any mesh, creating stylized rocks with customizable presets and parameters. It is designed for artists and designers who want to generate rocks for stylized environments with minimal effort.
