@@ -35,6 +35,3 @@ The **Stylized Rock Generator** is a Blender addon that allows you to quickly ap
 
 ## Requirements
 - Blender 3.0.0 or newer
-
-## License
-This addon is provided as-is. Please check the repository or contact the author for licensing details.
